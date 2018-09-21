@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.1.1.v20180612-1335_7?>
+<!--Topaz for Total Test 19.1.1.v20180612-1335_7 Sep 5, 2018 10:51:36 AM-->
+<testExecutions version="1">
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Scenarios\CWAFCOBX_Scenario.testscenario">
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.00001: Check for PARM_LTH"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.00002: Check for PARM_DATA"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.00003: Check for GRAND_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.00004: Check for TOTAL_RECORD"/>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFCOBX_CWAFDATE.stub">
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00001: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00001: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00001: CWAFDATE assertion.00003: TODAYS_DATE">
+      <failure message="TODAYS_DATE failed">TODAYS_DATE failed
+
+Actual Value:    180905
+
+Expected Value:  180726</failure>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00002: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00002: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00002: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00002: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00002: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00002: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00003: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00003: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00003: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00003: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00003: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00003: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00004: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00004: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00004: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00004: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00004: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00004: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00005: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00005: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00005: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00005: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00005: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00005: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00006: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00006: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00006: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00006: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00006: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00006: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00007: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00007: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00007: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00007: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00007: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00007: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00008: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00008: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00008: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00008: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00008: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00008: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00009: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00009: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00009: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00009: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00009: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00009: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00010: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00010: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00010: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00010: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00010: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00010: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00011: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00011: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00011: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00011: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00011: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00011: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00012: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00012: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00012: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00012: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00012: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00012: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00013: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00013: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00013: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00013: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00013: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00013: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00014: CWAFDATE assertion.00001: END_OF_MONTH_SW"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00014: CWAFDATE assertion.00002: YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00014: CWAFDATE assertion.00003: TODAYS_DATE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00014: CWAFDATE assertion.00004: WA_EMP_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00014: CWAFDATE assertion.00005: WA_EMP_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFDATE.00014: CWAFDATE assertion.00006: WA_EMP_HIRE_DD"/>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFCOBX_CWAFSUBC.stub">
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00001: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00001: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00001: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00002: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00002: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00002: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00003: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00003: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00003: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00004: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00004: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00004: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00005: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00005: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00005: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00006: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00006: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00006: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00007: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00007: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00007: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00008: CWAFSUBC assertion.00001: EMP_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00008: CWAFSUBC assertion.00002: CALC_SALES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_CWAFSUBC.00008: CWAFSUBC assertion.00003: CALC_COMMISSION"/>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFCOBX_RPTFILE_WRITE.stub">
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00001: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00002: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00003: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00003: Check for EMP_RUN_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00004: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00005: Check for EMP_RUN_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00006: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00007: Check for EMP_RUN_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00008: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00009: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00010: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00011: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00004: RPTFILE assertion.00012: Check for EMP_PAGE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00005: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00006: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00007: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00007: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00007: RPTFILE assertion.00003: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00007: RPTFILE assertion.00004: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00007: RPTFILE assertion.00005: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00003: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00004: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00005: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00006: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00007: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00008: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00009: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00010: Check for FILLER9"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00011: Check for FILLER10"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00012: Check for FILLER11"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00013: Check for FILLER12"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00014: Check for FILLER13"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00015: Check for FILLER14"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00016: Check for FILLER15"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00017: Check for FILLER16"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00008: RPTFILE assertion.00018: Check for FILLER17"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00009: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00010: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00011: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00012: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00013: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00014: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00015: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00016: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00017: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00018: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00019: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00020: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00021: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00022: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00023: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00024: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00024: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00024: RPTFILE assertion.00003: Check for FILLER2"/>
+    <testCase duration="0" name="DEMO.CWAFCOBX_Scenario.00001: CWAFCOBXCase1.CWAFCOBX_RPTFILE_WRITE.00024: RPTFILE assertion.00004: Check for EMP_GRAND_TOTAL"/>
+  </file>
+</testExecutions>

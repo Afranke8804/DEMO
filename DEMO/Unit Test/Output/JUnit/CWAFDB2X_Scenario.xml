@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.1.1.v20180612-1335_7?>
+<!--Topaz for Total Test 19.1.1.v20180612-1335_7 Jul 27, 2018 4:13:59 PM-->
+<testsuites>
+  <testsuite errors="0" failures="4" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1" tests="4">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1" name="00001: Check for PARM_LTH">
+      <failure>Check for PARM_LTH failed
+
+Actual Value:    
+
+Expected Value:  5</failure>
+    </testcase>
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1" name="00002: Check for PARM_DATA">
+      <failure>Check for PARM_DATA failed
+
+Actual Value:    
+
+Expected Value:  00001</failure>
+    </testcase>
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1" name="00003: Check for GRAND_TOTAL">
+      <failure>Check for GRAND_TOTAL failed
+
+Actual Value:    
+
+Expected Value:  1508</failure>
+    </testcase>
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1" name="00004: Check for TOTAL_RECORD">
+      <failure>Check for TOTAL_RECORD failed
+
+Actual Value:    
+
+Expected Value:  8</failure>
+    </testcase>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00001: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00001: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00002: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00002: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00003: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00003: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00004: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00004: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00005: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00005: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00006: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00006: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00007: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00007: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00008: CWAFDATE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_CWAFDATE.00008: CWAFDATE assertion" name="CWAFDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00001: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00001: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00002: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00002: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00003: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00003: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00004: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00004: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00005: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00005: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00006: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00006: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00007: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00007: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00008: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00008: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00009: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00009: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00010: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00010: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00011: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00011: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00012: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00012: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00013: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00013: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00014: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00014: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00015: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00015: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00016: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00016: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00017: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00017: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00018: RPTFILE assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_RPTFILE_WRITE.00018: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00001: Open assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00001: Open assertion" name="Open"/>
+  </testsuite>
+  <testsuite errors="1" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00003: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" tests="1">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00003: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" name="00001: Stub record incomplete">
+      <error>Stub record has no output or output is empty.</error>
+    </testcase>
+  </testsuite>
+  <testsuite errors="1" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00005: Open assertion" tests="1">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00003: Open assertion" name="Open"/>
+  </testsuite>
+  <testsuite errors="2" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00007: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" tests="2">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00007: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" name="00001: Stub record incomplete">
+      <error>Stub record has no output or output is empty.</error>
+    </testcase>
+  </testsuite>
+  <testsuite errors="2" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00009: Open assertion" tests="2">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00005: Open assertion" name="Open"/>
+  </testsuite>
+  <testsuite errors="3" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00011: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" tests="3">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00011: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" name="00001: Stub record incomplete">
+      <error>Stub record has no output or output is empty.</error>
+    </testcase>
+  </testsuite>
+  <testsuite errors="3" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00013: Open assertion" tests="3">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00007: Open assertion" name="Open"/>
+  </testsuite>
+  <testsuite errors="4" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00015: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" tests="4">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00015: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" name="00001: Stub record incomplete">
+      <error>Stub record has no output or output is empty.</error>
+    </testcase>
+  </testsuite>
+  <testsuite errors="4" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00017: Open assertion" tests="4">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00009: Open assertion" name="Open"/>
+  </testsuite>
+  <testsuite errors="5" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00019: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" tests="5">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00019: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" name="00001: Stub record incomplete">
+      <error>Stub record has no output or output is empty.</error>
+    </testcase>
+  </testsuite>
+  <testsuite errors="5" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00021: Open assertion" tests="5">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00011: Open assertion" name="Open"/>
+  </testsuite>
+  <testsuite errors="6" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00023: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" tests="6">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00023: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion" name="00001: Stub record incomplete">
+      <error>Stub record has no output or output is empty.</error>
+    </testcase>
+  </testsuite>
+  <testsuite errors="6" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00028: Open assertion" tests="6">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00013: Open assertion" name="Open"/>
+  </testsuite>
+  <testsuite errors="6" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00030: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Delete assertion" tests="6">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00014: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Delete assertion" name="CWAFDB2X_EMPLOYEE_CURSOR_SQL.Delete"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_Insert_1_SQL.00001: CWAFDB2X_Insert_1_SQL.Insert assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_Insert_1_SQL.00001: CWAFDB2X_Insert_1_SQL.Insert assertion" name="CWAFDB2X_Insert_1_SQL.Insert"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_Update_1_SQL.00001: CWAFDB2X_Update_1_SQL.Update assertion" tests="0">
+    <testcase classname="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_Update_1_SQL.00001: CWAFDB2X_Update_1_SQL.Update assertion" name="CWAFDB2X_Update_1_SQL.Update"/>
+  </testsuite>
+</testsuites>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.1.1.v20180612-1335_7?>
+<!--Topaz for Total Test 19.1.1.v20180612-1335_7 Jul 26, 2018 4:48:25 PM-->
+<interface:interface xmlns:interface="http://www.compuware.com/model/xml/interface" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" alias="" id="Unit%20Test/Interfaces/CWAFCOBX_RPTFILE_EMPLOYEE_HDR2.interface">
+  <interface:description></interface:description>
+  <interface:argument listructure="../Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure#Unit%20Test/Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure">
+    <interface:baseTypeExtension baseType="listructure:structType ../Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure#EMPLOYEE_HDR2">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:stringType ../Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure#EMPLOYEE_HDR2.FILLER0">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:stringType ../Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure#EMPLOYEE_HDR2.FILLER1">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:stringType ../Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure#EMPLOYEE_HDR2.FILLER2">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:stringType ../Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure#EMPLOYEE_HDR2.FILLER3">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:stringType ../Structures/CWAFCOBX_RPTFILE_EMPLOYEE-HDR2.listructure#EMPLOYEE_HDR2.FILLER4">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+  </interface:argument>
+</interface:interface>

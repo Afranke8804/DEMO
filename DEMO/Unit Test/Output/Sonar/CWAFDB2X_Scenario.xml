@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.1.1.v20180612-1335_7?>
+<!--Topaz for Total Test 19.1.1.v20180612-1335_7 Jul 27, 2018 4:13:59 PM-->
+<testExecutions version="1">
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Scenarios\CWAFDB2X_Scenario.testscenario">
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.00001: Check for PARM_LTH">
+      <failure message="Check for PARM_LTH failed">Check for PARM_LTH failed
+
+Actual Value:    
+
+Expected Value:  5</failure>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.00002: Check for PARM_DATA">
+      <failure message="Check for PARM_DATA failed">Check for PARM_DATA failed
+
+Actual Value:    
+
+Expected Value:  00001</failure>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.00003: Check for GRAND_TOTAL">
+      <failure message="Check for GRAND_TOTAL failed">Check for GRAND_TOTAL failed
+
+Actual Value:    
+
+Expected Value:  1508</failure>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.00004: Check for TOTAL_RECORD">
+      <failure message="Check for TOTAL_RECORD failed">Check for TOTAL_RECORD failed
+
+Actual Value:    
+
+Expected Value:  8</failure>
+    </testCase>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFDB2X_CWAFDATE.stub">
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00001: 'CWAFDATE' assertion.CWAFDATE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00002: 'CWAFDATE' assertion.CWAFDATE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00003: 'CWAFDATE' assertion.CWAFDATE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00004: 'CWAFDATE' assertion.CWAFDATE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00005: 'CWAFDATE' assertion.CWAFDATE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00006: 'CWAFDATE' assertion.CWAFDATE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00007: 'CWAFDATE' assertion.CWAFDATE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_CWAFDATE'.00008: 'CWAFDATE' assertion.CWAFDATE"/>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFDB2X_RPTFILE_WRITE.stub">
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00009: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00010: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00011: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00012: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00013: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00014: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00015: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00016: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00017: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00018: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00019: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00020: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00021: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00022: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00023: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00024: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00025: 'RPTFILE' assertion.RPTFILE"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_RPTFILE_WRITE'.00026: 'RPTFILE' assertion.RPTFILE"/>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFDB2X_EMPLOYEE_CURSOR_SQL.stub">
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00027: 'Open' assertion.Open"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00003: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00029: 'Open' assertion.Open"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00007: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00031: 'Open' assertion.Open"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00011: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00033: 'Open' assertion.Open"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00015: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00035: 'Open' assertion.Open"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00019: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00037: 'Open' assertion.Open"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.CWAFDB2X_EMPLOYEE_CURSOR_SQL.00023: CWAFDB2X_EMPLOYEE_CURSOR_SQL.Update assertion.00001: Stub record incomplete">
+      <error message="Stub record has no output or output is empty."/>
+    </testCase>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00039: 'Open' assertion.Open"/>
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL'.00040: 'CWAFDB2X_EMPLOYEE_CURSOR_SQL.Delete' assertion.CWAFDB2X_EMPLOYEE_CURSOR_SQL.Delete"/>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFDB2X_Insert_1_SQL.stub">
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_Insert_1_SQL'.00041: 'CWAFDB2X_Insert_1_SQL.Insert' assertion.CWAFDB2X_Insert_1_SQL.Insert"/>
+  </file>
+  <file path="C:\Users\HBRAXA0\Compuware\Workbench\workspace\DEMO\Unit Test\Stubs\CWAFDB2X_Update_1_SQL.stub">
+    <testCase duration="0" name="DEMO.CWAFDB2X_Scenario.00001: CWAFDB2XCase1.Stub: 'CWAFDB2X_Update_1_SQL'.00042: 'CWAFDB2X_Update_1_SQL.Update' assertion.CWAFDB2X_Update_1_SQL.Update"/>
+  </file>
+</testExecutions>
